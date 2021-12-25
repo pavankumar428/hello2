@@ -2,15 +2,15 @@
 xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
   <modelVersion>4.0.0</modelVersion>
   <groupId>com.compositeapps</groupId>
-  <artifactId>idqlogindemo</artifactId>
+  <artifactId>java-servlet-login-and-display</artifactId>
   <version>1.0.0</version>
   <packaging>war</packaging>
   
-	<artifactId>maven-web-application</artifactId>
+	<artifactId>java-servlet-login-and-display</artifactId>
 	<packaging>war</packaging>
 	<version>0.0.1-SNAPSHOT</version>
 	
-	<name>maven-web-application</name>
+	<name>java-servlet-login-and-display</name>
 
 	<description>Maven Web Project for Java Project</description>
 
