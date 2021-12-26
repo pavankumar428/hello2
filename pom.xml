@@ -58,6 +58,21 @@
 			<version>20160807</version>
 		</dependency>		
     </dependencies>
+    <distributionManagement>
+	
+	    <repository>
+	      <id>nexus</id>
+	      <name>Mithun Technologies Releases Nexus Repository</name>
+	      <url>http://75.101.201.122:8081/repository/Pradeep_Release/</url>
+	    </repository>
+	    
+	    <snapshotRepository>
+	      <id>nexus</id>
+	      <name>Mithun Technologies Snapshot Nexus Repository </name>
+	      <url>http://75.101.201.122:8081/repository/Pradeep_Sonatype/</url>
+	    </snapshotRepository>
+	    
+	</distributionManagement>
 
     <build>
         <pluginManagement>
